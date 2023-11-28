@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" align="center" style="width: 70rem; height:30rem" />
 </div>  
   
 
@@ -60,7 +60,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/channel/UCsSGu5NA_TBT6OUADF4bjqw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
   </a>
@@ -74,7 +74,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
 </div>
-  
 
 <br/>  
 
@@ -82,5 +81,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hansm7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
+
 
 ----
