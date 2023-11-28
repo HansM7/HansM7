@@ -78,8 +78,14 @@
 <br/>  
 
 
+
+
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hansm7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansm7&layout=compact)](https://github.com/alejandro1709/github-readme-stats)
+  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=hansm7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+  
 <br />
 
 
