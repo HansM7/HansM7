@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hola, soy Hans full-stack developer 🚀 </div>  
+### <div align="center">Full-stack developer 🚀 </div>  
   
 
   
