@@ -3,10 +3,9 @@
 </div>  
   
 
-### <div align="center">Hola, soy Hans | full-stack developer 👨‍💻 </div>  
+### <div align="center">Hola, soy Hans full-stack developer 🚀 </div>  
   
 
-- Apasionado de las tecnologías de información 🚀  
   
 
 <br/>  
