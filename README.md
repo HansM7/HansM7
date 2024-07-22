@@ -2,10 +2,6 @@
 <img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" align="center" style="width: 70rem; height:30rem" />
 </div>  
   
-
-### <div align="center">Full-stack developer 🚀 </div>  
-  
-
   
 
 <br/>  
