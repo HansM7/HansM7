@@ -54,7 +54,7 @@
 <br/>  
 
 
-/*## Connect with me  
+<!-- ## Connect with me  
 <div align="left">
   <a href="https://www.youtube.com/channel/UCsSGu5NA_TBT6OUADF4bjqw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
@@ -70,7 +70,7 @@
   </a>
 </div>*/
 
-<br/>  
+<br/>  -->
 
 
 
